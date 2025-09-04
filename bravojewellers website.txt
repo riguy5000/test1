@@ -136,46 +136,6 @@ color: #CBCBDD;
 mix-blend-mode: color-burn;
 
 
-/* title */
-
-position: absolute;
-width: 113px;
-height: 82px;
-left: 1257.56px;
-top: 434.37px;
-
-font-family: 'Cormorant Infant';
-font-style: normal;
-font-weight: 300;
-font-size: 68.3752px;
-line-height: 120%;
-/* identical to box height, or 82px */
-letter-spacing: -0.05em;
-
-color: #CBCBDD;
-
-mix-blend-mode: color-burn;
-
-
-/* title */
-
-position: absolute;
-width: 113px;
-height: 82px;
-left: 1257.56px;
-top: 434.37px;
-
-font-family: 'Cormorant Infant';
-font-style: normal;
-font-weight: 300;
-font-size: 68.3752px;
-line-height: 120%;
-/* identical to box height, or 82px */
-letter-spacing: -0.05em;
-
-color: #CBCBDD;
-
-mix-blend-mode: color-burn;
 
 
 /* Shop with us */
